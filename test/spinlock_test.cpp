@@ -1,4 +1,4 @@
-#include "SpinLock.hpp"
+#include "Spinlock.hpp"
 #include <gtest/gtest.h>
 #include <thread>
 #include <vector>
